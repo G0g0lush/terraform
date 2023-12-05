@@ -1,2 +1,2 @@
 # terraform
-terraform manifests
+Terraform manifests
